@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-rabbitmq-docker",
+  "version": "1.0.0",
+  "description": "* https://geshan.com.np/blog/2021/07/rabbitmq-docker-nodejs/ * https://medium.com/@michalpso/web-scraping-with-node-and-rabbitmq-e4692236fd52",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
