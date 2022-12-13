@@ -5,3 +5,5 @@
 * <https://javascript.plainenglish.io/how-to-build-a-scalable-scrawler-service-with-puppeteer-8e08905ed7e3>
 
 * <https://medium.com/@ArjanAswal/microservices-with-node-js-and-docker-and-rabbitmq-9d6b22d5f919>
+
+* <https://kuroeveryday.blogspot.com/2017/03/rabbitmq-tutorial6-nodejs.html#more>
